@@ -1,0 +1,4 @@
+name	description	north	south	east	west	special	item
+Main Entrance	A room welcoming all visitors	Library					
+Library	A tall room with many aisles of books		Main Entrance			pullBook Hidden Study	Note
+Hidden Study	A small room with a desk		Library				Lamp
